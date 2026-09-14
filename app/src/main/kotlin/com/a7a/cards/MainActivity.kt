@@ -91,7 +91,7 @@ class MainActivity : ComponentActivity() {
 
         searchInput = EditText(this).apply {
             hint = getString(R.string.search_hint)
-            singleLine = true
+            isSingleLine = true
             inputType = InputType.TYPE_CLASS_TEXT
             layoutDirection = View.LAYOUT_DIRECTION_RTL
             setPadding(dp(12), dp(8), dp(12), dp(8))
