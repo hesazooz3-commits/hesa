@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A7A Cards</string>
+    <string name="subtitle">إدارة كروت الشحن محليًا</string>
+    <string name="add_card">إضافة كارت</string>
+    <string name="extract_message">استخراج من رسالة</string>
+    <string name="dial_pad">لوحة الاتصال</string>
+    <string name="search_hint">بحث بالشبكة أو رقم الكارت</string>
+    <string name="card_number">رقم الكارت</string>
+    <string name="message_hint">الصق الرسالة هنا…</string>
+    <string name="extract">استخراج</string>
+    <string name="choose_network">اختار الشبكة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="used">مستخدم</string>
+    <string name="unused">غير مستخدم</string>
+    <string name="charge">اشحن الكارت</string>
+    <string name="copy">نسخ</string>
+    <string name="delete">حذف</string>
+    <string name="mark_used">تحديد كمستخدم</string>
+    <string name="mark_unused">تحديد كغير مستخدم</string>
+    <string name="copied">تم النسخ</string>
+    <string name="no_card_found">لم يتم العثور على رقم كارت مناسب في الرسالة.</string>
+    <string name="already_exists">الكارت موجود بالفعل.</string>
+    <string name="call_failed">تعذر فتح الاتصال.</string>
+    <string name="call">اتصال</string>
+    <string name="close">إغلاق</string>
+</resources>
